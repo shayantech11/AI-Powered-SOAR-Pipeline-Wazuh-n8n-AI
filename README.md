@@ -9,7 +9,9 @@
 **Wazuh** → **Python** → **n8n** → **Gemini AI** → **Severity Routing** → **Gmail**
 
 </p>
-
+<p align="center">
+  <img src="soar-pipeline.png" alt="AI-Powered SOAR Pipeline" width="900">
+</p>
 ---
 
 ## 📌 Overview
